@@ -1,0 +1,7 @@
+							GIT-LAB Server 
+
+In case the GIT-LAB Server is not working, than run these command:-
+
+sudo gitlab-ctl status
+sudo gitlab-ctl restart
+sudo service gitlab-runsvdir restart
